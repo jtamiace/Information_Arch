@@ -1,0 +1,1 @@
+This repo contains code for a redesign of the first level pages, as well as some second and third level pages for GSU.edu
